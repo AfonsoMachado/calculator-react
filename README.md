@@ -1,7 +1,5 @@
 # macOS Calculator Clone - React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 Calculadora baseada na calculadora do macOS, implementada usando ReactJS. Desenvolvido durante a realização do curso [Web Moderno com JavaScript 2020 COMPLETO + Projetos](https://www.cod3r.com.br/courses/web-moderno) promovido pela [Cod3r](https://www.cod3r.com.br/)
 
 ## :computer: Tecnologias
